@@ -1,2 +1,2 @@
-# digital.innovation.one.cities-api
+# Cities API
 Cities API - Java
